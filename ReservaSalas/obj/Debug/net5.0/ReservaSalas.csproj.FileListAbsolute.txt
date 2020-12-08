@@ -1,0 +1,16 @@
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\bin\Debug\net5.0\ReservaSalas.exe
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\bin\Debug\net5.0\ReservaSalas.deps.json
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\bin\Debug\net5.0\ReservaSalas.runtimeconfig.json
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\bin\Debug\net5.0\ReservaSalas.runtimeconfig.dev.json
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\bin\Debug\net5.0\ReservaSalas.dll
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\bin\Debug\net5.0\ref\ReservaSalas.dll
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\bin\Debug\net5.0\ReservaSalas.pdb
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\obj\Debug\net5.0\ReservaSalas.csprojAssemblyReference.cache
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\obj\Debug\net5.0\ReservaSalas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\obj\Debug\net5.0\ReservaSalas.AssemblyInfoInputs.cache
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\obj\Debug\net5.0\ReservaSalas.AssemblyInfo.cs
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\obj\Debug\net5.0\ReservaSalas.csproj.CoreCompileInputs.cache
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\obj\Debug\net5.0\ReservaSalas.dll
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\obj\Debug\net5.0\ref\ReservaSalas.dll
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\obj\Debug\net5.0\ReservaSalas.pdb
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\obj\Debug\net5.0\ReservaSalas.genruntimeconfig.cache

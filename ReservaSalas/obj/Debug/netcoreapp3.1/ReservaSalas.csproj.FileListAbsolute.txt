@@ -1,0 +1,13 @@
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\bin\Debug\netcoreapp3.1\ReservaSalas.exe
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\bin\Debug\netcoreapp3.1\ReservaSalas.deps.json
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\bin\Debug\netcoreapp3.1\ReservaSalas.runtimeconfig.json
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\bin\Debug\netcoreapp3.1\ReservaSalas.runtimeconfig.dev.json
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\bin\Debug\netcoreapp3.1\ReservaSalas.dll
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\bin\Debug\netcoreapp3.1\ReservaSalas.pdb
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\obj\Debug\netcoreapp3.1\ReservaSalas.csprojAssemblyReference.cache
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\obj\Debug\netcoreapp3.1\ReservaSalas.AssemblyInfoInputs.cache
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\obj\Debug\netcoreapp3.1\ReservaSalas.AssemblyInfo.cs
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\obj\Debug\netcoreapp3.1\ReservaSalas.csproj.CoreCompileInputs.cache
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\obj\Debug\netcoreapp3.1\ReservaSalas.dll
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\obj\Debug\netcoreapp3.1\ReservaSalas.pdb
+C:\Users\luizp\source\repos\ReservaSalas\ReservaSalas\obj\Debug\netcoreapp3.1\ReservaSalas.genruntimeconfig.cache
