@@ -1,2 +1,2 @@
 # Reserva Salas C#
-Sistema de reserva de salas em c#.Net 5
+Sistema de reserva de salas em C#.Net 5
